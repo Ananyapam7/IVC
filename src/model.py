@@ -32,7 +32,6 @@ import itertools
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-from glob import glob
 import seaborn as sns
 from PIL import Image
 np.random.seed(123)
